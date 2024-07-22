@@ -8,7 +8,7 @@ Welcome to the ROS Tunisia Users Group! We are a community of passionate individ
 
 Our organization is all about bringing together enthusiasts, professionals, and researchers who are interested in ROS. Whether you are a beginner or an expert, you will find a supportive community here to help you grow your skills and contribute to exciting projects.
 
-### 🌈 Contribution Guidelines
+### 🌱 Contribution Guidelines
 
 We believe in the power of community and collaboration. Here’s how you can get involved:
 - **Join our meetings**: Participate in our regular meetups and online discussions.
