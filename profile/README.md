@@ -26,5 +26,5 @@ To help you get started, here are some essential resources:
 
 ### 🍿 Fun Facts
 
-- Our team loves Tunisian cuisine for breakfast, especially brik and msemen!
+- We thought no one uses ROS in Tunisia in the past but we found out that many company use it.
 - We are inspired by the innovative spirit of our members and their dedication to robotics.
