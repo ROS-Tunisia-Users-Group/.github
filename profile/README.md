@@ -1,7 +1,3 @@
-Sure! Here's a draft for the README of the ROS Tunisia Users Group:
-
----
-
 # ROS Tunisia Users Group
 
 ## Hi there 👋
